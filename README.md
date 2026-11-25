@@ -4,7 +4,7 @@
 
 ## Executive Summary
 
-This  SQL portfolio project from Tech Studio Academy analyzes fictional Northstar Services security records using MySQL. The supplied dataset contains **238 login events** from **September 1–30, 2026**. The analysis covers login outcomes, IP reputation, employee and device behavior, and security alerts. Findings identify patterns for follow-up; they do not prove an attack or account compromise.
+This  SQL portfolio project analyzes fictional Northstar Services security records using MySQL. The supplied dataset contains **238 login events** from **September 1–30, 2026**. The analysis covers login outcomes, IP reputation, employee and device behavior, and security alerts. Findings identify patterns for follow-up; they do not prove an attack or account compromise.
 
 ## Project Objectives
 
