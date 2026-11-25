@@ -4,7 +4,7 @@
 
 ## Executive Summary
 
-This three-week Group A SQL portfolio project from Tech Studio Academy analyzes fictional Northstar Services security records using MySQL. The supplied dataset contains **238 login events** from **September 1–30, 2026**. The analysis covers login outcomes, IP reputation, employee and device behavior, and security alerts. Findings identify patterns for follow-up; they do not prove an attack or account compromise.
+This  SQL portfolio project from Tech Studio Academy analyzes fictional Northstar Services security records using MySQL. The supplied dataset contains **238 login events** from **September 1–30, 2026**. The analysis covers login outcomes, IP reputation, employee and device behavior, and security alerts. Findings identify patterns for follow-up; they do not prove an attack or account compromise.
 
 ## Project Objectives
 
@@ -137,8 +137,8 @@ The SQL script contains a company failure-rate condition written as `' Failed'` 
 
 | File | Description |
 | --- | --- |
-| `SQL PROJECT FILE NTERN.sql` | SQL exploration and investigation queries |
-| `October Intern - Group A/` | Dataset CSVs and supporting project files |
+| `SQL PROJECT FILE INTERN.sql` | SQL exploration and investigation queries |
+|  | Dataset CSVs and supporting project files |
 
 ## How to Run
 
@@ -153,8 +153,4 @@ The SQL script contains a company failure-rate condition written as `' Failed'` 
 - IP risk labels and unusual patterns are indicators for investigation, not confirmation of malicious activity.
 - The 30-day period is a limited sample and may not represent normal long-term behavior.
 - Missing IP information and any field, join, or status inconsistencies can affect conclusions.
-
-## Project Credit
-
-Tech Studio Academy — Group A SQL Portfolio Project.
 
